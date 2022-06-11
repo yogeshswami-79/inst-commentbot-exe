@@ -1,0 +1,13 @@
+1652248988592	geckodriver	INFO	Listening on 127.0.0.1:49839
+1652248991827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ICMI\\AppData\\Local\\Temp\\rust_mozprofileJYEBrc"
+*** You are running in headless mode.
+1652248993875	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ICMI\\AppData\\Local\\Temp\\rust_mozprofileJYEBrc\\search.json.mozlz4", (void 0)))
+1652248997718	Marionette	INFO	Listening on port 49848
+1652248998187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652248998188	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual"}
+1652249026116	Marionette	INFO	Stopped listening on port 49848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
